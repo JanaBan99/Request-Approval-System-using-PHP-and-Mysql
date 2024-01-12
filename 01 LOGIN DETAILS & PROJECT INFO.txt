@@ -1,0 +1,30 @@
+
+**Database Name: simpleave**
+
+**IB Login Details**
+
+Email   : ib@gmail.com
+Password: ib123
+
+**DH Login Details**
+
+Email   : hod@gmail.com
+Password: dh123
+
+**System admin Login Details**
+
+Email   : sa@gmail.com
+Password: sa123
+
+**HR Login Details**
+
+Email   : hr@gmail.com
+Password: HR123
+
+**USER Login**
+
+Email   : tharuprabha9999@gmail.com
+Password: 123
+
+
+

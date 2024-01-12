@@ -1,0 +1,6 @@
+add users command
+INSERT INTO devices (name, head_of_department_id) VALUES 
+('Device1', 123),
+('Device2', 123),
+('Device3', 124),
+('Device4', 125);
